@@ -12,8 +12,8 @@ Hi, I am Rahul Gupta,age 24 yrs,pursuing MCA from Ganga Institute of Technology 
 I did my schooling from Saran Central School;matriculation from ST.Xavier's High School,Ledhupur,Varanasi;Intermediate from
 Devasthaly Vidyapeeth,Chilkahar,Ballia.
 I am currently taking web development training from Aptron Institute of Noida.I have completed HTML5,
-CSS3,Bootstrap4 and now doing javascript.
+CSS3,Bootstrap4 and now am doing javascript.
 I am very passionate about my web development training and I want my career in it.
-I am not very social or talkative but enjoy talking wth like minded people around me.
+I am social or talkative only with like minded people around me.
 So I do like to be in the group of Web developers.
 I have limited friends.But they are the best to talk to.
