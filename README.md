@@ -8,7 +8,7 @@
 Rguptaah/Rguptaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I am **Rahul Gupta**,age 26 yrs, **1.8 years** experienced in **web development**.
+Hi, I am **Rahul Gupta**,age 26 yrs, **2.5 years** experienced in **web development**.
 I did my schooling from **Saran Central School**; Matriculation from **ST. Xavier's High School,Ledhupur,Varanasi**; Intermediate from
 **Devasthaly Vidyapeeth Chilkahar Ballia**; BCA from **Jaipur National University, Jaipur** and; MCA from **MDU, Rohtak**.
 I have completed HTML5,CSS3,Bootstrap4,JS Basics,jQuery, AJAX, JSON ,PHP Core and Wordpress.
