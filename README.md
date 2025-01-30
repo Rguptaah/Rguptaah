@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rguptaah
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on website development
 - 📫 You can reach me by clicking this link -->  https://www.facebook.com/rguptaah , https://rahulkrgupta.netlify.app/
 
